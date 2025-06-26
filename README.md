@@ -2,10 +2,10 @@
 
 https://github.com/user-attachments/assets/e61bd18a-d6d0-4eaa-a44b-fe041a96ba3a
 
-This project allows you to stream live JPEG images from an ESP32-CAM to a cheap yellow TFT display (like ST7735/ILI9341-based) driven by another ESP32, using WebSockets for real-time, low-latency transmission. Ideal for DIY wireless monitors, embedded vision projects, and ESP32 learning.
+This project allows you to stream live JPEG images from an ESP32-CAM to a cheap yellow display board on ESP32, using WebSockets for real-time, low-latency transmission. Ideal for DIY wireless monitors, embedded vision projects, and ESP32 learning.
 
  Features
-📡 WebSocket communication between ESP32-CAM (client) and ESP32 with display (server)
+📡 WebSocket communication between ESP32-CAM (client) and CYD (server)
 
 🖼️ JPEG image streaming with TJpg_Decoder on-the-fly
 
