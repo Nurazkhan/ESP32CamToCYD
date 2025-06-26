@@ -80,6 +80,7 @@ void setup() {
   lcd.setTextColor(TFT_WHITE, TFT_BLUE);
   lcd.println("Waiting for connection");
   lcd.println("from ESP32-CAM (Client)");
+  lcd.println("author: Nurazkhan");
   Serial.println();
   Serial.println("Waiting for connection from ESP32-CAM (Client).");
   
