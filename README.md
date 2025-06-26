@@ -29,4 +29,7 @@ SPI.h (built-in)	Required for TFT communication
 https://github.com/user-attachments/assets/d1d3c6bd-b736-4fa6-9dd4-d2daf3fae05c
 
 
+Tags:
+ esp32-cam, esp32 display, websocket streaming, tft display esp32, jpeg streaming, live video esp32, st7735, ili9341, esp32 camera, image transfer, bb_spi_lcd, tjpg_decoder, cheap tft esp32, wireless image display, embedded graphics, arduino display project
+
 
